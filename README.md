@@ -18,4 +18,4 @@ pip install -r requirements.txt
 
 ## Run steamlit app
 ```
-streamlit run dashboard.py
+streamlit run dashboard_visualisasi_analisis_ecommers.py
